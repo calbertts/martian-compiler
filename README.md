@@ -41,15 +41,15 @@ Square 5 3
 
 Carlos
 Move 1 1 E
-RFRFRFRF
+Rotate RFRFRFRF
 
 Mike
 Move 3 2 N
-FRRFLLFFRRFLL
+Rotate FRRFLLFFRRFLL
 
 Jhon
 Move 0 3 W
-LLFFFLFLFL
+Rotate LLFFFLFLFL
 ```
 
 #### Expected Output
