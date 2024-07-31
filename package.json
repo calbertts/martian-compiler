@@ -1,0 +1,16 @@
+{
+  "name": "martian-compiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compilerAndRun.js",
+  "scripts": {
+    "compile": "node src/compiler.js $1",
+    "exec": "node src/vm.js $1",
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "peggy": "^4.0.3"
+  }
+}
