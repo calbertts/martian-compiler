@@ -212,3 +212,7 @@ The bytecode will be:
 
 This bytecode specification can be used to generate the same bytecode with different grammars and compilers, ensuring consistent behavior in the VM.
 By following this structure, you can ensure that your VM interprets and executes the bytecode correctly, triggering the appropriate signals and actions.
+
+### Visual Example
+![image](https://github.com/user-attachments/assets/ee43ddb9-ce20-4d1e-adbb-19d63ca7f16c)
+
